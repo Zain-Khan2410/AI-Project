@@ -1,12 +1,6 @@
 # AI-Project
 # 🗺️ AI Travel Planner
 
-> **Course:** Artificial Intelligence (AI) — End Semester Project
-> **Team:** Zamin, Atta & Zain
-> **Instructor:** Atif Luqman
-> **University:** FAST NUCES
-> **Submission Date:** 12th March, 2026
-
 ---
 
 ## 📌 Project Overview
