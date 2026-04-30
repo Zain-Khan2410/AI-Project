@@ -1,4 +1,3 @@
-# AI-Project
 # 🗺️ AI Travel Planner
 
 ---
